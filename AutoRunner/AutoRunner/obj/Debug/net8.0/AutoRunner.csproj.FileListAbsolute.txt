@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\bin\Debug\net8.0\AutoRunner.exe
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\bin\Debug\net8.0\AutoRunner.deps.json
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\bin\Debug\net8.0\AutoRunner.runtimeconfig.json
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\bin\Debug\net8.0\AutoRunner.dll
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\bin\Debug\net8.0\AutoRunner.pdb
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.AssemblyInfo.cs
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.dll
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\refint\AutoRunner.dll
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.pdb
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\AutoRunner.genruntimeconfig.cache
+C:\Users\Dell\source\repos\AutoRunner\AutoRunner\obj\Debug\net8.0\ref\AutoRunner.dll
